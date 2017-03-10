@@ -1,0 +1,6 @@
+notes
+
+
+- Application pour arrêter de fumer
+- BD d'utilisateurs avec date de debut
+- niveaux, force d'utilisateurs (étoiles etc)

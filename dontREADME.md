@@ -1,10 +1,13 @@
 #Pour la base de donnée : Mongodb
 
-## Installation
+## Installation Mongodb
 `sudo npm install -g mongoose`
 
 - Créer un dossier /data dans le projet
 `mongod --dbpath ./data` (pour lancer la bd)
 
-##Installer brew
-`brew install mongodb --with-openssl`
+- si besoin installer brew
+
+##Lancer la BD
+`brew install mongodb --with-openssl` dans le répertoire du projet
+`mongo`
