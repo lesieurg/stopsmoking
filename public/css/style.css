@@ -1,1 +1,56 @@
-body { padding-top:30px; }
+body{ padding-top:30px; }
+
+a { color: black; }
+
+table, th, td{ opacity: 0.95; }
+
+#progressbar{ width: 30%; }
+
+#debloque{color: green;}
+
+#adebloquer{color: orange;}
+
+#bloquer{color: red;}
+
+
+
+
+#volonte{
+  color: white;
+  background-color: #32CD32;
+  font-size: 120%;
+}
+
+#tablestatistique{
+  background-color: #32CD32;
+  font-size: 170%;
+  color: white;
+}
+
+#autre{
+  color: black;
+  font-size: 120%;
+  text-align: left;
+}
+
+#niveau1{
+  display: inline-block;
+  font-size: 190%;
+  width: 146px;
+}
+
+#statut{
+  display: inline-block;
+  font-size: 150%;
+  width: 146px;
+}
+
+#home{
+  color: black;
+  font-size: 140%;
+}
+
+#reussite{
+  color: black;
+  font-size: 140%;
+}

@@ -8,14 +8,24 @@ angular.module('appRoutes', []).config(['$routeProvider', '$locationProvider', f
 			controller: 'MainController'
 		})
 
-		.when('/nerds', {
-			templateUrl: 'views/nerd.html',
-			controller: 'NerdController'
+		.when('/statistique', {
+			templateUrl: 'views/statistique.html',
+			controller: 'StatistiqueController'
 		})
 
-		.when('/geeks', {
-			templateUrl: 'views/geek.html',
-			controller: 'GeekController'	
+		.when('/reussite', {
+			templateUrl: 'views/reussite.html',
+			controller: 'ReussiteController'
+		})
+
+		.when('/autre', {
+			templateUrl: 'views/autre.html',
+			controller: 'AutreController'
+		})
+
+		.when('/volonte', {
+			templateUrl: 'views/volonte.html',
+			controller: 'VolonteController'
 		});
 
 	$locationProvider.html5Mode(true);
