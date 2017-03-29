@@ -11,3 +11,7 @@
 ##Lancer la BD
 `brew install mongodb --with-openssl` dans le répertoire du projet
 `mongo`
+
+
+##lancer mongodb
+mongod

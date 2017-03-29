@@ -1,0 +1,80 @@
+{
+  login: "eric",
+  password: "e5v2",
+  niveau: 1 ,
+  sante : 0.1,
+  bienetre : 0.1,
+  temps : 0.1,
+  argent : 0.1,
+  cigarettes : 0.1,
+  points : {
+    debloque : 1,
+    adeboque : 1,
+    bloque : 1},
+  habitude : {
+    datestop : "23/05/1994",
+    cigparjour : 1,
+    prixpaquet : 7,
+    cigparpaquet : 20
+  }
+}
+{
+  login: "bob",
+  password: "pppp",
+  niveau: 1 ,
+  sante : 0.8,
+  bienetre : 0.9,
+  temps : 0.1,
+  argent : 0.1,
+  cigarettes : 0.1,
+  points : {
+    debloque : 1,
+    adeboque : 3,
+    bloque : 1},
+  habitude : {
+    datestop : "23/05/1995",
+    cigparjour : 1,
+    prixpaquet : 7,
+    cigparpaquet : 20
+  }
+}
+{
+  login: "eueu",
+  password: "e5sklkv2",
+  niveau: 1 ,
+  sante : 0.1,
+  bienetre : 0.1,
+  temps : 0.1,
+  argent : 0.1,
+  cigarettes : 0.1,
+  points : {
+    debloque : 1,
+    adeboque : 1,
+    bloque : 1},
+  habitude : {
+    datestop : "23/05/1996",
+    cigparjour : 1,
+    prixpaquet : 7,
+    cigparpaquet : 20
+  }
+}
+{
+  login: "test",
+  password: "root",
+  niveau: 1 ,
+  sante : 0.1,
+  bienetre : 0.1,
+  temps : 0.1,
+  argent : 0.1,
+  cigarettes : 0.1,
+  points : {
+    debloque : 1,
+    adeboque : 1,
+    bloque : 1},
+  habitude : {
+    datestop : "23/05/1994",
+    cigparjour : 1,
+    prixpaquet : 7,
+    cigparpaquet : 20
+  }
+}
